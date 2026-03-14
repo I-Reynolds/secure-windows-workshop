@@ -1,4 +1,4 @@
-# secure-windows-workshop
+# Secure-Windows-Workshop
 Scripts to support the Secure Windows Workshop
 
 If you've worked through the Secure Windows Workshop then this repository contains the scripts used.
